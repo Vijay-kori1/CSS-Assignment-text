@@ -1,0 +1,16 @@
+h2{
+    text-decoration: line-through;
+    color: blue;
+    text-transform: uppercase;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+}
+h3{
+    color: blueviolet;
+    text-indent: 50%;
+    font-size: 50px;
+    text-shadow: 10px 10px 10px rgb(62, 7, 7);
+}
+p{
+    text-align: right;
+}
